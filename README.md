@@ -25,7 +25,7 @@ language that you're using. To make such a tool you need to know how to:
 - read/write file
 - basic algorithm for string manipulation
  
-at least. If you can you're able to do something meaningful with the language
+at least. If you can you're capable of doing something meaningful with the language
 that you're using. *You should be able to achieve this at least in the 3rd day
 after you've started to learn the language.*
 
