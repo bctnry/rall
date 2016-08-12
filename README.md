@@ -26,7 +26,8 @@ language that you're using. To make such a tool you need to know how to:
 - basic algorithm for string manipulation
  
 at least. If you can you're able to do something meaningful with the language
-that you're using.
+that you're using. *You should be able to achieve this at least in the 3rd day
+after you've started to learn the language.*
 
 further expansion
 ---
@@ -41,5 +42,7 @@ further expansion
 on language restrictions
 ---
 
-If the language you're using don't support commandline arguments it is OK to
-use the standard input to get the filename from the user.
+- If the language you're using don't support commandline arguments it is OK to
+  use the standard input to get the filename from the user.
+- It is OK not to create a standalone .exe file, but you need to describe the
+  environment that needs to run your program.
