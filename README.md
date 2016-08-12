@@ -10,6 +10,11 @@ enter something like this:
 
 in your console and it should output a file with the same name with all `\n` turned into `\n\r`.
 
+why the name
+---
+
+add an \\***r*** beside ***all*** \n, hence the name.
+
 purpose
 ---
 
