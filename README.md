@@ -8,7 +8,7 @@ enter something like this:
 
 ` rall [filename] `
 
-in your console and it should output a file with the same name with all `\n` turned into `\n\r`.
+in your console and it should output a file with the same name with all `\n` turned into `\n\r` or `\r\n`.
 
 why the name
 ---
